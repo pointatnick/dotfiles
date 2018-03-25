@@ -7,6 +7,7 @@ filetype plugin indent on
 " Color
 :set t_Co=256 " 256 colors
 :set background=dark
+set backspace=2
 
 " Leader
 let mapleader = ","
